@@ -47,8 +47,7 @@ for (const location of locations) {
         invalidLocation = true
     }
 
-    if (invalidLocation) {
+    if (invalidLocation = true) {
         console.log("This location is invalid")
     }
 }
-
